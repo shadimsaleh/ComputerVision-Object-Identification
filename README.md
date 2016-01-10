@@ -3,3 +3,7 @@ This project was completed for my Computational Vision class. Using VisionStartC
 
 #How to compile
 Type 'make all' in this directory. (Currently broken, my bad, ill fix that)
+
+[!alt text](OUTPUT/many_objects_2.png)
+[!alt text](OUTPUT/many_objects_2.png)
+[!alt text](OUTPUT/many_objects_2.png)
